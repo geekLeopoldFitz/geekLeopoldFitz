@@ -38,5 +38,9 @@ Here are some ideas to get you started:
 ### 我的 Github
 ![](https://github-readme-stats.vercel.app/api?username=geekLeopoldFitz&count_private=true&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=geekLeopoldFitz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 联系我
 邮箱：geekmanvel@gmail.com
