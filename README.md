@@ -35,11 +35,10 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekLeopoldFitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 我的 Github
-![](https://github-readme-stats.vercel.app/api?username=geekLeopoldFitz&count_private=true&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=geekLeopoldFitz&count_private=true&show_icons=true&theme=buefy)
 
 ### 联系我
 邮箱：geekmanvel@gmail.com
