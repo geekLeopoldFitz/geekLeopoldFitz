@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
 
+### 常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekLeopoldFitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 我的 Github
